@@ -1,0 +1,3 @@
+AZURE_CLIENT_ID=<client-id-of-the-service-principal-used-for-local-debugging>
+AZURE_CLIENT_SECRET=<secret-of-the-service-principal-used-for-local-debugging>
+AZURE_TENANT_ID=<azure-ad-tenant-id>
