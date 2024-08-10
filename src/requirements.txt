@@ -5,7 +5,7 @@ attrs==23.1.0
 azure-core==1.26.4
 azure-identity==1.13.0
 azure-servicebus==7.10.0
-certifi==2023.5.7
+certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.1.0
 cryptography==41.0.0
